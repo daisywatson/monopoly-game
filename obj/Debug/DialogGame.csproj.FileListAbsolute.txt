@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\bin\Debug\DialogGame.exe.config
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\bin\Debug\DialogGame.exe
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\bin\Debug\DialogGame.pdb
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.Properties.Resources.resources
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.exe
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.pdb
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.Lobby.resources
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.Game.resources

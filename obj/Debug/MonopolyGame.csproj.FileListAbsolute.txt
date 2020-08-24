@@ -1,0 +1,26 @@
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\bin\Debug\DialogGame.exe.config
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\bin\Debug\DialogGame.exe
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\bin\Debug\DialogGame.pdb
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\MonopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.Game.resources
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.Lobby.resources
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.Properties.Resources.resources
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\MonopolyGame.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\MonopolyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.exe
+C:\Users\Admin\Documents\Programming\Senior project\DialogGame\DialogGame\obj\Debug\DialogGame.pdb
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\bin\Debug\DialogGame.exe.config
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\bin\Debug\DialogGame.exe
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\bin\Debug\DialogGame.pdb
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\obj\Debug\MonopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\obj\Debug\DialogGame.Game.resources
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\obj\Debug\DialogGame.Lobby.resources
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\obj\Debug\DialogGame.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\obj\Debug\MonopolyGame.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\obj\Debug\MonopolyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\obj\Debug\DialogGame.exe
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\obj\Debug\DialogGame.pdb
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\bin\Debug\DialogGame.exe.manifest
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\bin\Debug\DialogGame.application
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\obj\Debug\DialogGame.exe.manifest
+C:\Users\Admin\Desktop\Dropbox\School-stuff\Senior-project\DialogGame\DialogGame\obj\Debug\DialogGame.application
